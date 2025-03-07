@@ -3,3 +3,4 @@ seaborn==0.13.2
 streamlit
 pandas
 numpy==1.24.4
+plotly==5.19.0
