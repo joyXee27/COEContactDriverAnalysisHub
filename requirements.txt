@@ -4,4 +4,4 @@ streamlit
 pandas
 numpy==1.24.4
 plotly
-pip install --upgrade pip
+
